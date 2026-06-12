@@ -1,8 +1,8 @@
 # Cortex Paranoia
 
-On the Cortex Roleplaying Discord server, in a response to message about trust, @Duke posted the cover from the West End Games TTRPG "Paranoia."
+<img src="/paranoia.jpg" alt="Paranoia TTRPG cover" height="200" align="right" />
 
-<img src="/paranoia.jpg" alt="Paranoia TTRPG cover" />
+On the Cortex Roleplaying Discord server, in a response to message about trust, @Duke posted the cover from the West End Games TTRPG "Paranoia."
 
 In response, @Scallops said: "Hacking Cortex to play Paranoia would be an interesting challenge. A lot of the philosophies are anathema to each other. Would you hide GM rolls or have all mechanics open..."
 
