@@ -1,6 +1,6 @@
 # Cortex Paranoia
 
-<img src="/paranoia.jpg" alt="Paranoia TTRPG cover" height="200" align="right" />
+<img src="/Cover.jpg" alt="Paranoia TTRPG cover" height="200" align="right" />
 
 On the Cortex Roleplaying Discord server, in a response to message about trust, @Duke posted the cover from the West End Games TTRPG "Paranoia."
 
