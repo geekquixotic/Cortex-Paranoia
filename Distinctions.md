@@ -37,29 +37,6 @@
 | 20       | Other                                      |
 
 ## Mutant Powers
-| d20 Roll | Mutant Power          |
-| --:      | :--                   |
-| 1        | Lung/Gill Adaption    |
-| 2        | Matter Eater          |
-| 3        | Polymorphism          |
-| 4        | Adrenalin Control     |
-| 5        | Electroshock          |
-| 6        | Suspended Animation   |
-| 7        | Number Cruncher       | 
-| 8        | Eidetic Memory        | 
-| 9        | Suggestion            | 
-| 10       | Machine Sense         |
-| 11       | Paralyzer             |
-| 12       | Trance Teleport       |
-| 13       | Levitation            |
-| 14       | Telepathic Projection |
-| 15       | Deep Probe            |
-| 16       | Mental Blast          |
-| 17       | Pyrokenesis           |
-| 18       | Empathic Healing      |
-| 19       | Machine Empathy       | 
-| 20       | Luck                  |
-
 | d20 Roll | Mutant Power                   |
 | --:      | :--                            |
 | 1        | Advanced Hearing               |
