@@ -17,7 +17,7 @@ In _Cortex Paranoia_, there is no _single_ GM. Rather each of the players take t
 ### Inspirations
 You mean besides the original _Paranoia_ TTRPG? All five books of _The Hitchhiker's Guide to the Galaxy_ trilogy are a good starting point. Also most [Terry Gilliam](https://en.wikipedia.org/wiki/Terry_Gilliam_filmography) movies such as _"[Time Bandits](https://www.imdb.com/title/tt0081633)"_ or _"[Monty Python and the Holy Grail](https://www.imdb.com/title/tt0071853)"_.
 
-The two mods (Character Creation and The Treason Die) are inspired by [The Leverage RPG](https://en.wikipedia.org/wiki/Leverage:_The_Roleplaying_Game) by Cam Banks and Rob Donoghue and the [Strage Towns](https://www.drivethrurpg.com/en/product/567043/strange-towns) Spotlight by Kira Magrann respectively.
+The two mods (Character Creation and The Treason Die) are inspired by [The Leverage RPG](https://en.wikipedia.org/wiki/Leverage:_The_Roleplaying_Game) by Cam Banks, and Rob Donoghue and the [Strage Towns](https://www.drivethrurpg.com/en/product/567043/strange-towns) Spotlight by Kira Magrann, respectively.
 
 ## Rules and Variants
 _Cortex Paranoia_ uses **distinctions**, **attributes**, and **relationships** as prime traits. Relationships use **trait statements**. Each scene consists of a **crisis pool** that is resolved with **contests** and follow **dramatic order**. 
