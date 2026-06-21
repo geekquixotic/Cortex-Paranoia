@@ -1,6 +1,6 @@
 # Cortex Paranoia
 Written by Chad Lawson   
-Inspired by @Duke and @Scallops   
+Inspired by @Duke and @Scallops on the Cortex Discord server
 Made possible by Cam Banks   
 
 ## Genres and Tropes
