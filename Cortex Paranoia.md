@@ -3,6 +3,12 @@ Written by Chad Lawson
 Inspired by @Duke and @Scallops on the Cortex Discord server     
 Made possible by Cam Banks   
 
+|                |     |
+| --:            | :-- |
+| **Setting**    | d8  |
+| **Prep**       | d4  |
+| **Complexity** | d8  |
+
 ## Genres and Tropes
 If one were to ask, "What would happen if you took a hyper-secretive, backstabbing, insane TTRPG like [Paranoia](https://en.wikipedia.org/wiki/Paranoia_(role-playing_game)) and put it in a [telepod](https://ultimatepopculture.fandom.com/wiki/Telepods) with a super-open game toolbox like [Cortex Prime](https://www.cortexrpg.com)?"
 
