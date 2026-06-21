@@ -59,3 +59,26 @@
 | 18       | Empathic Healing      |
 | 19       | Machine Empathy       | 
 | 20       | Luck                  |
+
+| d20 Roll | Mutant Power                   |
+| --:      | :--                            |
+| 1        | Advanced Hearing               |
+| 2        | Advanced Vision                |
+| 3        | Advanced Touch                 |
+| 4        | Advanced Taste                 |
+| 5        | Advanced Smell                 | 
+| 6        | Superior Physical Capabilities |
+| 7        | Superior Mental Capabilities   |
+| 8        | Superior Social Capabilities   |
+| 9        | Regeneration                   |
+| 10       | Chameleon                      |
+| 11       | Charm                          |
+| 12       | Magnetosense                   |
+| 13       | Combat Mind                    |
+| 14       | Empathy                        |
+| 15       | Mechanical Intuition           |
+| 16       | Telepathic Sense               |
+| 17       | Mental Block                   |
+| 18       | Precognition                   |
+| 19       | Telekinesis                    |
+| 20       | ***None***                     |
