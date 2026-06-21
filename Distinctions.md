@@ -34,7 +34,7 @@
 | 17       | Free Enterprise                            |
 | 18       | Death Leopard                              |
 | 19       | Sierra Club                                |
-| 20       | Other                                      |
+| 20       | ***None***                                 |
 
 ## Mutant Powers
 | d20 Roll | Mutant Power                   |
