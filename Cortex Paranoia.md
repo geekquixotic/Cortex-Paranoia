@@ -45,7 +45,7 @@ If your treason die would be stepped up beyond d12, a brief scene should take pl
 ### Distinctions
 Characters have three distinctions: _Service Group_, _Mutant Power_, and _Secret Society_. Each of which has the standard "Hinder" SFX. Each has another SFX that unlocks when it is used for the first time.
 
-**Service Group** - When you unlock your secret society, you receive six resource dice you can use normally. You can step up your treason die to replenish one resource.   
+**Service Group** - When you unlock your service group, you receive six resource dice you can use normally. You can step up your treason die to replenish one resource.   
 **Mutant Power** - Step up your treason die to use your mutant power **and** include an additional die in your total.   
 **Secret Society** - When you step up your treason die to create an d6 asset, you can give the asset one of the following options for free:
 1. It starts at d8
